@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Accesscurrentlocation</string>
+    <string name="get_location">GET LOCATION</string>
+    <string name="longitude">Longitude</string>
+    <string name="_0_0">0.0</string>
+    <string name="latitude">Latitude</string>
+</resources>
